@@ -1,0 +1,13 @@
+    {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Rust_3DRender",
+                "type": "cppvsdbg",
+                "request": "launch",
+                "program": "${workspaceFolder}/build/Rust_3DRender.exe",
+                "args": [],
+                "cwd": "${workspaceFolder}/data",
+            }
+        ]
+    }
