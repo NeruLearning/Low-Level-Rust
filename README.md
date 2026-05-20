@@ -1,1 +1,1 @@
-![](https://media.tenor.com/u9Gs9NiR81IAAAAi/anime-baka.gif)
+![](https://media.tenor.com/VKOfk26fpTYAAAAi/tspchan1-anime.gif)
